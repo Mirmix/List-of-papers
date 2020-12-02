@@ -1,4 +1,4 @@
-#  Related work - Learning-based Reconstruction, Modeling, Shape Representation, and Processing
+#  Learning-based Reconstruction, Modeling, Shape Representation, and Processing
 
 ## Deep learning for classification and segmentation
 * [PointNet](https://arxiv.org/abs/1612.00593)
