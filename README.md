@@ -12,7 +12,7 @@
 
 ## Reconstruction from point clouds
 * [Point2Mesh](https://ranahanocka.github.io/point2mesh/)
-
+* [Learning Deformable Tetrahedral Meshes for 3D Reconstruction](https://nv-tlabs.github.io/DefTet/)
 ## Reconstruction from images
 * [Automatic 3D building reconstruction from multi-view aerial images with deep learning.](https://www.researchgate.net/publication/346483775_Automatic_3D_building_reconstruction_from_multi-view_aerial_images_with_deep_learning) 
 
