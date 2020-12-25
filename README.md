@@ -3,6 +3,9 @@
 ## Deep learning for classification and segmentation
 * [PointNet](https://arxiv.org/abs/1612.00593)
 
+## Generative models
+* [Roof-GAN: Learning to Generate Roof Geometry and Relations for Residential Houses](https://arxiv.org/abs/2012.09340)
+
 ## Shape representation
 * [Overfit Neural Networks as a Compact Shape Representation](https://arxiv.org/abs/2009.09808)
 * [DeepSDF: Learning Continuous Signed Distance Functions](https://arxiv.org/abs/1901.05103)
