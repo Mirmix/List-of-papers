@@ -1,17 +1,15 @@
 #  Learning-based Reconstruction, Modeling, Shape Representation, and Processing
 
+## Shape generation
+* [Roof-GAN: Learning to Generate Roof Geometry and Relations for Residential Houses](https://arxiv.org/abs/2012.09340)
+* [BSP Net](https://bsp-net.github.io/)
+
 ## Deep learning for classification and segmentation
 * [PointNet](https://arxiv.org/abs/1612.00593)
-
-## Generative models
-* [Roof-GAN: Learning to Generate Roof Geometry and Relations for Residential Houses](https://arxiv.org/abs/2012.09340)
 
 ## Shape representation
 * [Overfit Neural Networks as a Compact Shape Representation](https://arxiv.org/abs/2009.09808)
 * [DeepSDF: Learning Continuous Signed Distance Functions](https://arxiv.org/abs/1901.05103)
-
-## Shape generation
-* [BSP Net](https://bsp-net.github.io/)
 
 ## Reconstruction from point clouds
 * [Point2Mesh](https://ranahanocka.github.io/point2mesh/)
