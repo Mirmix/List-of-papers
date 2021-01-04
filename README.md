@@ -12,6 +12,7 @@
 * [DeepSDF: Learning Continuous Signed Distance Functions](https://arxiv.org/abs/1901.05103)
 
 ## Reconstruction from point clouds
+* [Points2Surf Learning Implicit Surfaces from Point Clouds](https://github.com/ErlerPhilipp/points2surf)
 * [Point2Mesh](https://ranahanocka.github.io/point2mesh/)
 * [Learning Deformable Tetrahedral Meshes for 3D Reconstruction](https://nv-tlabs.github.io/DefTet/)
 ## Reconstruction from images
