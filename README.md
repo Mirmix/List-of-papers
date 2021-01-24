@@ -17,6 +17,7 @@
 * [Learning Deformable Tetrahedral Meshes for 3D Reconstruction](https://nv-tlabs.github.io/DefTet/)
 ## Reconstruction from images
 * [Automatic 3D building reconstruction from multi-view aerial images with deep learning.](https://www.researchgate.net/publication/346483775_Automatic_3D_building_reconstruction_from_multi-view_aerial_images_with_deep_learning) 
+* [Recurrent MVSNet for High-resolution Multi-view Stereo Depth Inference ](https://arxiv.org/pdf/1902.10556.pdf)
 
 ## Style transfer
 * [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)
