@@ -18,6 +18,9 @@
 ## Reconstruction from images
 * [Automatic 3D building reconstruction from multi-view aerial images with deep learning.](https://www.researchgate.net/publication/346483775_Automatic_3D_building_reconstruction_from_multi-view_aerial_images_with_deep_learning) 
 * [Recurrent MVSNet for High-resolution Multi-view Stereo Depth Inference ](https://arxiv.org/pdf/1902.10556.pdf)
+* [PatchmatchNet: Learned Multi-View Patchmatch Stereo](https://arxiv.org/pdf/2012.01411.pdf)
+* [Surfacenet: An end-to-end 3d neural network for multiview stereopsis.](https://arxiv.org/pdf/1708.01749.pdf)
+* [BlendedMVS: A Large-scale Dataset for Generalized Multi-view Stereo Networks](https://arxiv.org/pdf/1911.10127.pdf)
 
 ## Style transfer
 * [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)
