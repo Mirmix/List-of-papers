@@ -24,3 +24,9 @@
 
 ## Style transfer
 * [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)
+
+
+## Plane detection networks
+* [Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding](https://arxiv.org/pdf/1902.09777)
+* [PlaneSegNet: Fast and Robust Plane Estimation Using a Single-stage Instance Segmentation CNN](https://arxiv.org/pdf/2103.15428)
+* [PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image](https://arxiv.org/abs/1804.06278)
