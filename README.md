@@ -15,6 +15,7 @@
 * [Points2Surf Learning Implicit Surfaces from Point Clouds](https://github.com/ErlerPhilipp/points2surf)
 * [Point2Mesh](https://ranahanocka.github.io/point2mesh/)
 * [Learning Deformable Tetrahedral Meshes for 3D Reconstruction](https://nv-tlabs.github.io/DefTet/)
+* [PC2WF: 3D WIREFRAME RECONSTRUCTION FROM RAW POINT CLOUDS](https://openreview.net/pdf?id=8X2eaSZxTP)
 ## Reconstruction from images
 * [Automatic 3D building reconstruction from multi-view aerial images with deep learning.](https://www.researchgate.net/publication/346483775_Automatic_3D_building_reconstruction_from_multi-view_aerial_images_with_deep_learning) 
 * [Recurrent MVSNet for High-resolution Multi-view Stereo Depth Inference ](https://arxiv.org/pdf/1902.10556.pdf)
@@ -24,7 +25,7 @@
 
 ## Style transfer
 * [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)
-
+* [FrankenGAN: Guided Detail Synthesis for Building Mass Models using Style-Synchonized GANs](https://arxiv.org/pdf/1806.07179.pdf)
 
 ## Plane detection networks
 * [Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding](https://arxiv.org/pdf/1902.09777)
