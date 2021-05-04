@@ -22,6 +22,9 @@
 * [PatchmatchNet: Learned Multi-View Patchmatch Stereo](https://arxiv.org/pdf/2012.01411.pdf)
 * [Surfacenet: An end-to-end 3d neural network for multiview stereopsis.](https://arxiv.org/pdf/1708.01749.pdf)
 * [BlendedMVS: A Large-scale Dataset for Generalized Multi-view Stereo Networks](https://arxiv.org/pdf/1911.10127.pdf)
+* [Vision Transformers for Dense Prediction](https://arxiv.org/pdf/2103.13413.pdf)
+* [Multi-view 3D Reconstruction with Transformer](https://arxiv.org/pdf/2103.13413.pdf)
+* [DI-Fusion: Online Implicit 3D Reconstruction with Deep Priors](https://arxiv.org/pdf/2012.05551.pdf)
 
 ## Style transfer
 * [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)
