@@ -34,3 +34,8 @@
 * [Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding](https://arxiv.org/pdf/1902.09777)
 * [PlaneSegNet: Fast and Robust Plane Estimation Using a Single-stage Instance Segmentation CNN](https://arxiv.org/pdf/2103.15428)
 * [PlaneNet: Piece-wise Planar Reconstruction from a Single RGB Image](https://arxiv.org/abs/1804.06278)
+
+## Stereo Matching
+* [Pyramid Stereo Matching Network](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chang_Pyramid_Stereo_Matching_CVPR_2018_paper.pdf)
+* [Group-wise Correlation Stereo Network](https://arxiv.org/pdf/1903.04025.pdf)
+* [EdgeStereo: A Context Integrated Residual Pyramid Network for Stereo Matching](https://arxiv.org/pdf/1803.05196.pdf)
