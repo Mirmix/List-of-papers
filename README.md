@@ -25,6 +25,7 @@
 * [Vision Transformers for Dense Prediction](https://arxiv.org/pdf/2103.13413.pdf)
 * [Multi-view 3D Reconstruction with Transformer](https://arxiv.org/pdf/2103.13413.pdf)
 * [DI-Fusion: Online Implicit 3D Reconstruction with Deep Priors](https://arxiv.org/pdf/2012.05551.pdf)
+* [M3VSNet: Unsupervised Multi-metric Multi-view Stereo Network](https://arxiv.org/pdf/2005.00363.pdf)
 
 ## Style transfer
 * [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)
@@ -39,3 +40,4 @@
 * [Pyramid Stereo Matching Network](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chang_Pyramid_Stereo_Matching_CVPR_2018_paper.pdf)
 * [Group-wise Correlation Stereo Network](https://arxiv.org/pdf/1903.04025.pdf)
 * [EdgeStereo: A Context Integrated Residual Pyramid Network for Stereo Matching](https://arxiv.org/pdf/1803.05196.pdf)
+* [SMD-Nets: Stereo Mixture Density Networks](https://arxiv.org/pdf/2104.03866.pdf)
