@@ -26,6 +26,9 @@
 * [Multi-view 3D Reconstruction with Transformer](https://arxiv.org/pdf/2103.13413.pdf)
 * [DI-Fusion: Online Implicit 3D Reconstruction with Deep Priors](https://arxiv.org/pdf/2012.05551.pdf)
 * [M3VSNet: Unsupervised Multi-metric Multi-view Stereo Network](https://arxiv.org/pdf/2005.00363.pdf)
+* [TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers](https://arxiv.org/pdf/2111.14600.pdf)
+* [Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation](https://arxiv.org/pdf/2201.01501.pdf)
+
 
 ## Style transfer
 * [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)
